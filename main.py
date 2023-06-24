@@ -6,7 +6,7 @@ def main():
     ##################################################
 
     sub1 = original_str[:6]
-    sub2 = original_str[-12:]
+    sub2 = original_str[-11:]
     merged_str = sub1 + sub2
 
     print(sub2)
